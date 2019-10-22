@@ -1,3 +1,5 @@
+//Programa que recebe três notas, calcula e motra a média aritmética.
+
 #include <stdio.h>
 #include <stdlib.h>
 

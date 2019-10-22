@@ -1,3 +1,5 @@
+//Programa que recebe quatro números inteiros, calcula e mostra a soma desses numeros.
+
 #include <stdio.h>
 #include <stdlib.h>
 
