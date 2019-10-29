@@ -3,6 +3,7 @@ ao quadrado, cubo, raiz quadrada e raiz cubica.*/
 
 #include <stdlib.h>
 #include <stdio.h>
+#include <math.h>
 
 int main (void)
 
