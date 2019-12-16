@@ -1,5 +1,5 @@
 //Preenche dois vetores de 10 elementos 
-//e imprime a intercalação entre eles
+//e mostra a intercalação entre eles...
 #include <stdio.h>
 #include <stdlib.h>
 #define n 10
