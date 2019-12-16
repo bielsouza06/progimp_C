@@ -1,5 +1,5 @@
 /*Preenche um vetor com oito números, calcula e mostra dois vetores 
-resultantes. Um com os números positivos e outro com o negativos.*/
+resultantes. Um com os números positivos e outro com os negativos.*/
 #include <stdio.h>
 #include <stdlib.h>
 #define n 8
