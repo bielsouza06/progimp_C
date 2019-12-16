@@ -1,3 +1,10 @@
+/*
+Crie um programa que preencha uma matriz 10 X 20 com números inteiros e 
+some cada uma das linhas, armazenando o resultado das somas em um vetor. 
+A seguir, o programa deverá multiplicar cada elemento da matriz pela 
+soma da linha correspondente e mostrar a matriz resultante. 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define l 10   
